@@ -1,6 +1,6 @@
 # PSA Data Analytics Business Challenge
 
-![Challenge Logo](file:///Users/jaoming/Documents/Codes/UnboXed%20Challenge%20(PSA)/photo_2020-03-22%2017.31.11.jpeg)
+![Challenge Logo](https://github.com/jaotheboss/PSA_Data-Analytics_Business_Challenge/blob/master/Challenge_Logo.jpeg)
 
 This challenge was posed by PSA; Singapore Ports of Authority.
 
