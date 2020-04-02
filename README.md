@@ -1,6 +1,6 @@
 # PSA Data Analytics Business Challenge
 
-![Challenge Logo](https://github.com/jaotheboss/PSA_Data-Analytics_Business_Challenge/blob/master/Challenge_Logo.jpeg)
+![Challenge Logo](https://github.com/jaotheboss/PSA_Data-Analytics_Business_Challenge/blob/master/Challenge_Logo.png)
 
 This challenge was posed by PSA; Singapore Ports of Authority.
 
