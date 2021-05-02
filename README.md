@@ -21,3 +21,5 @@ This challenge was posed by PSA; Singapore Ports of Authority.
   - Both Python and R codes were used for the analysis. R was used mostly for some visualisations. 
   - Bulk of the analysis and cleaning was done in Python
   - This Git should consist of several Python and R files, and only 1 PDF file detailing our findings and efforts.
+
+[Link to Raw Data](https://drive.google.com/drive/folders/1D7d2a3mL0xhK6RxShe70a_ozrS5gMiS0?usp=sharing)
